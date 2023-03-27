@@ -1,0 +1,872 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        45.739070892333984,
+        92.40343475341797,
+        6.421384334564209
+      ],
+      "min": [
+        -1.8433783054351807,
+        25.921613693237305,
+        -2.5186243057250977
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6420,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        0.9996684193611145,
+        0.9998595714569092,
+        0.9959394335746765
+      ],
+      "min": [
+        -0.9985364675521851,
+        -0.9999998807907104,
+        -0.9969452619552612
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        0.9891420006752014,
+        0.9968399405479431,
+        0.9999932646751404,
+        -1.0
+      ],
+      "min": [
+        -0.9926483631134033,
+        -0.9927095174789429,
+        -0.9999977350234985,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        0.6777197122573853,
+        0.9935868382453918
+      ],
+      "min": [
+        0.3560885787010193,
+        0.4290429949760437
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4280,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        0.6777197122573853,
+        0.9935868382453918
+      ],
+      "min": [
+        0.3560885787010193,
+        0.4290429949760437
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2832,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12840,
+      "componentType": 5126,
+      "count": 1160,
+      "max": [
+        27.885812759399414,
+        55.775875091552734,
+        2.204983949661255
+      ],
+      "min": [
+        -31.57256317138672,
+        18.165266036987305,
+        -8.081809043884277
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26760,
+      "componentType": 5126,
+      "count": 1160,
+      "max": [
+        0.9911542534828186,
+        0.9999956488609314,
+        0.999995768070221
+      ],
+      "min": [
+        -0.9911542534828186,
+        -0.9242728352546692,
+        -0.9999716281890869
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 8560,
+      "componentType": 5126,
+      "count": 1160,
+      "max": [
+        -0.025514772161841393,
+        0.5860157608985901,
+        0.9849632382392883,
+        -1.0
+      ],
+      "min": [
+        -1.0,
+        -0.5873096585273743,
+        -0.9834113121032715,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8560,
+      "componentType": 5126,
+      "count": 1160,
+      "max": [
+        0.961458683013916,
+        0.41357719898223877
+      ],
+      "min": [
+        0.00544700026512146,
+        0.025626659393310547
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17840,
+      "componentType": 5126,
+      "count": 1160,
+      "max": [
+        0.961458683013916,
+        0.41357719898223877
+      ],
+      "min": [
+        0.00544700026512146,
+        0.025626659393310547
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 11328,
+      "componentType": 5125,
+      "count": 6276,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40680,
+      "componentType": 5126,
+      "count": 668,
+      "max": [
+        42.14484786987305,
+        31.522539138793945,
+        6.4168291091918945
+      ],
+      "min": [
+        -45.57938003540039,
+        -1.1779069900512695,
+        -4.132923603057861
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 48696,
+      "componentType": 5126,
+      "count": 668,
+      "max": [
+        0.992173433303833,
+        1.0,
+        0.9964973330497742
+      ],
+      "min": [
+        -0.9998748302459717,
+        -0.9999972581863403,
+        -0.9999492168426514
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 27120,
+      "componentType": 5126,
+      "count": 668,
+      "max": [
+        0.9639555811882019,
+        0.9999409914016724,
+        0.9999909996986389,
+        -1.0
+      ],
+      "min": [
+        -0.9689229130744934,
+        -0.9906116127967834,
+        -0.9999999403953552,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27120,
+      "componentType": 5126,
+      "count": 668,
+      "max": [
+        0.9789444804191589,
+        0.9928065538406372
+      ],
+      "min": [
+        0.6812721490859985,
+        0.42825958132743835
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32464,
+      "componentType": 5126,
+      "count": 668,
+      "max": [
+        0.9789444804191589,
+        0.9928065538406372
+      ],
+      "min": [
+        0.6812721490859985,
+        0.42825958132743835
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 36432,
+      "componentType": 5125,
+      "count": 3600,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56712,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        -1.8433769941329956,
+        92.39896392822266,
+        6.421546459197998
+      ],
+      "min": [
+        -49.4189453125,
+        25.020145416259766,
+        -2.518627882003784
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 63144,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        0.9993192553520203,
+        0.9999342560768127,
+        0.9968084096908569
+      ],
+      "min": [
+        -0.9996914863586426,
+        -0.9999998807907104,
+        -0.9961293339729309
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 37808,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        0.9915444850921631,
+        0.9966589212417603,
+        0.9999991059303284,
+        -1.0
+      ],
+      "min": [
+        -0.9945007562637329,
+        -0.9929763674736023,
+        -0.9999854564666748,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 37808,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        0.3377297818660736,
+        0.9961283802986145
+      ],
+      "min": [
+        0.011428825557231903,
+        0.43158525228500366
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 42096,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        0.3377297818660736,
+        0.9961283802986145
+      ],
+      "min": [
+        0.011428825557231903,
+        0.43158525228500366
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50832,
+      "componentType": 5125,
+      "count": 2832,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 69576,
+      "componentType": 5126,
+      "count": 1314,
+      "max": [
+        10.215770721435547,
+        55.36418151855469,
+        0.8460670709609985
+      ],
+      "min": [
+        -13.902521133422852,
+        31.245887756347656,
+        -2.3107125759124756
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 85344,
+      "componentType": 5126,
+      "count": 1314,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.7123538255691528
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 46384,
+      "componentType": 5126,
+      "count": 1314,
+      "max": [
+        0.9535921812057495,
+        0.9108948707580566,
+        0.9988781213760376,
+        1.0
+      ],
+      "min": [
+        -0.8525151610374451,
+        -0.9238795042037964,
+        -0.9999911189079285,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 46384,
+      "componentType": 5126,
+      "count": 1314,
+      "max": [
+        0.9723283052444458,
+        0.4233796298503876
+      ],
+      "min": [
+        0.005750736221671104,
+        0.0028035789728164673
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 56896,
+      "componentType": 5126,
+      "count": 1314,
+      "max": [
+        0.9723283052444458,
+        0.4233796298503876
+      ],
+      "min": [
+        0.005750736221671104,
+        0.0028035789728164673
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 62160,
+      "componentType": 5125,
+      "count": 6519,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 101112,
+      "componentType": 5126,
+      "count": 2178,
+      "max": [
+        7.778697967529297,
+        54.02330780029297,
+        0.9103841781616211
+      ],
+      "min": [
+        -11.529085159301758,
+        32.67517852783203,
+        0.3766290843486786
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 127248,
+      "componentType": 5126,
+      "count": 2178,
+      "max": [
+        0.9977664947509766,
+        0.997949481010437,
+        1.0
+      ],
+      "min": [
+        -0.9977664947509766,
+        -0.9979498982429504,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 67408,
+      "componentType": 5126,
+      "count": 2178,
+      "max": [
+        0.9938802123069763,
+        0.9999877214431763,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9976431727409363,
+        -0.9977664947509766,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 67408,
+      "componentType": 5126,
+      "count": 2178,
+      "max": [
+        0.17020964622497559,
+        0.10989274084568024
+      ],
+      "min": [
+        0.1062018945813179,
+        0.045884888619184494
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 84832,
+      "componentType": 5126,
+      "count": 2178,
+      "max": [
+        0.17020964622497559,
+        0.10989274084568024
+      ],
+      "min": [
+        0.1062018945813179,
+        0.045884888619184494
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 88236,
+      "componentType": 5125,
+      "count": 8748,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "sedayuzlu (https://sketchfab.com/sedayuzlu)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/steering-wheel-7a85961229e8415a95102a3780a7130d",
+      "title": "STEERING WHEEL"
+    },
+    "generator": "Sketchfab-15.10.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 123228,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 102256,
+      "byteOffset": 123228,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 153384,
+      "byteOffset": 225484,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 102256,
+      "byteOffset": 378868,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 481124,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/STEERING_WHEEL_baseColor.png"
+    },
+    {
+      "uri": "textures/STEERING_WHEEL_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/STEERING_WHEEL_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "STEERING_WHEEL",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Circle_STEERING WHEEL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle.001_STEERING WHEEL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle.004_STEERING WHEEL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 15,
+            "TEXCOORD_1": 16
+          },
+          "indices": 17,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle.005_STEERING WHEEL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18,
+            "TANGENT": 20,
+            "TEXCOORD_0": 21,
+            "TEXCOORD_1": 22
+          },
+          "indices": 23,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle.006_STEERING WHEEL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TANGENT": 26,
+            "TEXCOORD_0": 27,
+            "TEXCOORD_1": 28
+          },
+          "indices": 29,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle.012_STEERING WHEEL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30,
+            "TANGENT": 32,
+            "TEXCOORD_0": 33,
+            "TEXCOORD_1": 34
+          },
+          "indices": 35,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "STEERING WHEEL.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Circle"
+    },
+    {
+      "mesh": 0,
+      "name": "Circle_STEERING WHEEL_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Circle.001"
+    },
+    {
+      "mesh": 1,
+      "name": "Circle.001_STEERING WHEEL_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Circle.004"
+    },
+    {
+      "mesh": 2,
+      "name": "Circle.004_STEERING WHEEL_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "Circle.005"
+    },
+    {
+      "mesh": 3,
+      "name": "Circle.005_STEERING WHEEL_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "Circle.006"
+    },
+    {
+      "mesh": 4,
+      "name": "Circle.006_STEERING WHEEL_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "Circle.012"
+    },
+    {
+      "mesh": 5,
+      "name": "Circle.012_STEERING WHEEL_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
